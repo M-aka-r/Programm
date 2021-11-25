@@ -1,0 +1,70 @@
+body{
+  font-family: sans-serif;
+}
+ header{
+   background-color:DeepSkyBlue;
+  color:white;
+  font-size:34px;
+  }
+  #roll{
+    text-align:center;
+    background-color: blue;
+    color:white;
+    font-size: 40px; 
+  }
+#poll{
+  text-align:center;
+    background-color:green;
+    color:white;
+    font-size: 40px; 
+  }
+    
+    #moll{
+      text-align: center;
+      background-color:blue;
+    color:white;
+    font-size: 40px;
+    }
+    
+    #toll{
+      text-align: center;
+    background-color: green;
+    color:white;
+    font-size: 40px;
+    }
+    #can{
+      text-align: center;
+      font-size: 24px;
+    }
+    #one{
+      width: 470px;
+      height:400px;
+    }
+    #two{
+      width: 470px;
+      height:400px;
+    }
+    #three{
+      width: 470px;
+      height:400px;
+    }
+    #pen{
+      text-align: center;
+      font-size: 24px;
+      }
+      #shcool{
+      font-size: 24px;
+      }
+      table{
+        border:1px solid green;
+        border-collapse: collapse;
+      }
+      td{
+        border:1px solid green;
+        border-collapse: collapse;
+      }
+      #cool{
+      font-size: 24px
+      }
+      
+    
