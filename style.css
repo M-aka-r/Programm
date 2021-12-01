@@ -70,9 +70,9 @@ body{
       table{
         border:1px solid green;
         border-collapse: collapse;
-        width:210px;
+        width:600px;
         text-align: center;
-        height:190px;
+        height:450px;
       }
       td{
         border:1px solid green;
