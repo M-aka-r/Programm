@@ -45,19 +45,19 @@ body{
       font-size: 24px;
     }
     #one{
-      width: 600px;
-      height:600px;
+      width: 470px;
+      height:400px;
     }
     #two{
-      width: 600px;
-      height:600px;
+      width: 470px;
+      height:400px;
     }
     #three{
-      width: 600px;
-      height:600px;
+      width: 470px;
+      height:400px;
       #four{
-        width: 400px;
-      height:800px;
+        width: 470px;
+      height:400px;
       }
     }
     #pen{
