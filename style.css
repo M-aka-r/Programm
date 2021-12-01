@@ -45,16 +45,20 @@ body{
       font-size: 24px;
     }
     #one{
-      width: 470px;
-      height:400px;
+      width: 600px;
+      height:600px;
     }
     #two{
-      width: 470px;
-      height:400px;
+      width: 600px;
+      height:600px;
     }
     #three{
-      width: 470px;
-      height:400px;
+      width: 600px;
+      height:600px;
+      #four{
+        width: 600px;
+      height:600px;
+      }
     }
     #pen{
       text-align: center;
